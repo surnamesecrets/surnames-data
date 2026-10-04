@@ -1868,3 +1868,4 @@ const surnameDatabase = {
   "colon": "The surname Colón is the Spanish form of Columbus, from the Latin columbus, meaning 'dove'. It is common across Puerto Rico and Hispanic communities in the United States.",
   "munoz": "The surname Muñoz is a Spanish patronymic meaning 'son of Muño', a medieval personal name. It is common across Spain, Chile, and Latin America.",
   "gonzales": "The surname Gonzales is a variant spelling of González, a Spanish patronymic meaning 'son of Gonzalo'. It is common across Texas, New Mexico, and the American Southwest."
+};
